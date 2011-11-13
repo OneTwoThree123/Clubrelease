@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Clubrelease feature.
+ */
+
+include_once('clubrelease.features.inc');
